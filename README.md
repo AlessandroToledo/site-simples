@@ -1,6 +1,6 @@
 # Site-Simples
 Site criado duarante a execução do curso "Crie um site simples usando HTML, CSS e JavaScript" da Fundação Bradesco, que utiliza HTML para a estruturação, CSS para personalização e JavaScript para realizar o evento de alteração de tema da página ao clicar no botão.
 
-<img width="235" alt="image" src="https://github.com/AlessandroToledo/Site-Bradesco/assets/57714182/7c01082b-a0b2-4c52-a3b7-e589a5885d88">
+<img width="233" alt="image" src="https://github.com/AlessandroToledo/site-simples/assets/57714182/2e5fb6b3-1024-41e0-b015-32282cd36b3e">
 
-<img width="238" alt="image" src="https://github.com/AlessandroToledo/Site-Bradesco/assets/57714182/ef38fef4-33e9-4125-8836-2c9013c690c9">
+<img width="236" alt="image" src="https://github.com/AlessandroToledo/site-simples/assets/57714182/7edae671-be1a-4272-9392-2eab55eaa054">
